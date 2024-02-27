@@ -1,5 +1,5 @@
-describe("aa", () => {
-  test("aa", () => {
-    expect(1).toBe(1);
-  });
-});
+describe('aa', () => {
+  test('aa', () => {
+    expect(1).toBe(1)
+  })
+})
