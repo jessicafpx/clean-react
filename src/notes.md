@@ -13,7 +13,7 @@ presentation -> camada de apresentação de dados
 
 validation -> validações de dados
 
-parei na aula 5
+parei na aula 6
 
 
 TESTES 
