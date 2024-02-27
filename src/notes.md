@@ -14,3 +14,7 @@ presentation -> camada de apresentação de dados
 validation -> validações de dados
 
 parei na aula 5
+
+
+TESTES 
+-sut -> system under tests
